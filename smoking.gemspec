@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Smoking::VERSION
   spec.authors       = ["Leonard Garvey"]
   spec.email         = ["lengarvey@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{A simple gem to generate and run smoke tests in your Rails app.}
+  # spec.description   = %q{TODO:}
   spec.homepage      = ""
   spec.license       = "MIT"
 
